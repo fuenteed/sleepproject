@@ -28,10 +28,6 @@ HiLetgo SCD41 CO2 Carbon Dioxide Gas Sensor
 Temperature and Humidity Sensor  
 
 ## Stretch Goals
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ae51c5 (first commit init readme)
 I have an Oura Ring so something I want to do is use the Oura API and sync it with my sleep environment data to see if my sleep quality
 according to my ring is actually better under certain room conditions.
 
